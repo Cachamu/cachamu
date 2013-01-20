@@ -8,7 +8,7 @@
        }
   h1   {
     color: #FAF3BC;
-    font-sizes: 64px;
+    font-size: 64px;
        }
        p {
           color: #FAF3BC;
